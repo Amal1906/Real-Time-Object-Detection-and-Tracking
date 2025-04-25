@@ -10,4 +10,6 @@ To build a lightweight object detection and tracking system that:
 - Displays real-time annotated video with bounding boxes
 - Logs new and missing objects between frames
 
+## Output
+The output.mp4 tracks the object and the green signal indicate the object is being detected and then the red signal indicate the specific object that has a unique ID is removed from the frame.
 
